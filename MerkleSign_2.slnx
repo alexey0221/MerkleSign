@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="streebog.vcxproj" Id="a7ecb28a-3fd8-4a8f-bd53-e70b0d57cd26" />
+</Solution>
