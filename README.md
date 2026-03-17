@@ -54,7 +54,7 @@
 ```bash
 # Клонирование репозитория
 git clone https://github.com/alexey0221/MerkleSign.git
-cd streebog
+cd MerkleSign
 ```
 
 💡 Пример использования
